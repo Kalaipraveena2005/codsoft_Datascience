@@ -114,6 +114,6 @@ The Linear Regression model achieved an R² Score of approximately **90.6%**, in
 
 ## 👨‍💻 Author
 
-Aravind
+kalai praveena
 
 CodSoft Data Science Internship
