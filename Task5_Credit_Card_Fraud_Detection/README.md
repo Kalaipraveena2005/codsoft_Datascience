@@ -132,6 +132,6 @@ Credit_Card_Fraud_Detection/
 
 ## 👨‍💻 Author
 
-**Aravind**
+**kalai praveena**
 
 Data Science Intern – CodSoft
