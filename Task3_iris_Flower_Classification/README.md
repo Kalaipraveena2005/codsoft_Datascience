@@ -116,6 +116,6 @@ Task3_Iris_Flower_Classification/
 
 ## 👨‍💻 Author
 
-**Aravind D**
+**kalai praveena**
 
 CodSoft Data Science Internship
